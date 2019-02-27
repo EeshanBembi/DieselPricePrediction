@@ -1,5 +1,5 @@
 # DieselPricePrediction
-I designed a univariate LSTM as asked in the assignment.For the sake of ease i splitted the dataset into two files diesel_train and diesel_test into 80% and 20% values respectively.I could have used train_test_split() method but this way reflected more sleekness.
+I designed a univariate LSTM to predict diesel prices in the future.For the sake of ease i splitted the dataset into two files diesel_train and diesel_test into 80% and 20% values respectively.I could have used train_test_split() method but this way reflected more sleekness.
 
 
 
